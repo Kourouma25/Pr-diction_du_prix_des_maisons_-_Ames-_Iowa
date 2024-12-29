@@ -6,7 +6,7 @@ import requests
 API_URL = "http://192.168.1.10:5000/predire"  
 
 def envoyer_pour_prediction(donnees):
-    """Envoie les données à l'API Flask et récupère les prédictions."""
+    """Envoie les données toasts à l'API Flask et récupère les prédictions."""
     try:
         # Envoyer les données via une requête POST
         response = requests.post(API_URL, json=donnees)
