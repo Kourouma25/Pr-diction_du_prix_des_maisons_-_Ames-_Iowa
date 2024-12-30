@@ -63,7 +63,6 @@ Une fois le modèle validé, nous le déploierons sous forme d’API REST :
 
 Une fois la Mission 1 terminée avec succès, nous passerons à la Mission 2 du projet : la création d’un dashboard interactif. Ce dashboard sera conçu pour permettre aux utilisateurs, comme les agents immobiliers ou les gestionnaires de biens, de visualiser facilement les prédictions de prix pour chaque maison, ainsi que les facteurs influençant ces prédictions. Il offrira également la possibilité de comparer les caractéristiques d’une maison spécifique avec l’ensemble du marché ou avec un groupe de propriétés similaires. Nous veillerons également à ce que le dashboard soit intuitif, accessible à tous, et déployé sur une plateforme cloud pour être utilisé en temps réel par les professionnels de l’immobilier. Cette étape sera essentielle pour transformer notre modèle en un outil concret et pratique pour la prise de décisions dans le secteur immobilier.
 
-
 # **Description des des fichiers essentiels**
 * **modelisation.ipynb** contient l’analyse exploratoire des données, la modélisation avec divers algorithmes de machine learning pour prédire les prix des maisons, et le suivi des expérimentations avec MLflow. Il inclut aussi une évaluation détaillée des performances du modèle final à l’aide de métriques comme le RMSE, MAE et R². Ce notebook est essentiel pour garantir un modèle précis et robuste.
 * **main.py** est un fichier de construction de l'API 
