@@ -4,7 +4,7 @@
 
 Ce projet a pour objectif de développer un modèle de machine learning capable de prédire les prix des maisons dans la ville d'Ames, Iowa, à partir de différentes caractéristiques . Ce projet sera réalisé en équipe de trois personnes :
 
-X (Data Scientist en formation)
+Kourouma Sekouba Aissatou (Data Scientist en formation)
 
 Y (Consultant CRM)
 
